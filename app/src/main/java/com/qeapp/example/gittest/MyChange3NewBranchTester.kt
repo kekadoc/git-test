@@ -1,4 +1,4 @@
 package com.qeapp.example.gittest
 
-class MyChange3 {
+class MyChange3NewBranchTester {
 }
