@@ -1,4 +1,4 @@
 package com.qeapp.example.gittest
 
-class MyChange {
+class MyChange2 {
 }
