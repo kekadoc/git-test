@@ -9,3 +9,5 @@ class MyShit3
 class MyShit4
 
 class MyShit5
+
+class MyShit6
